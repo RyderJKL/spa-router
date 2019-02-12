@@ -1,0 +1,13 @@
+#test-box {
+  /* overflow: auto; */
+  overflow: scroll;
+  width: 100px;
+  height: 40px;
+  border: 1px solid red;
+  /* text-overflow: ellipsis; */
+  /* white-space: nowrap; */
+}
+
+#sub-box {
+  white-space: nowrap;
+}

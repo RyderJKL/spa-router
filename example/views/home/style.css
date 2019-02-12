@@ -1,0 +1,16 @@
+.flex-wrap{
+  display: flex;
+  /* justify-content: space-around; */
+  /* justify-content: space-evenly; */
+  width: 6000px;
+  height: 3000px;
+  justify-content: space-around;
+  background-repeat: no-repeat;
+  /* background-size: contain; */
+  background-image: url(https://image.lingxi360.com/login_bg/20180725/5b57eecf4f4d1.jpg);
+}
+
+.flex-item {
+  /* border: 1px solid red; */
+}
+
